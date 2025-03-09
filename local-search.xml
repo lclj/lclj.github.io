@@ -4,31 +4,6 @@
   
   
   <entry>
-    <title>hexo博客搭建</title>
-    <link href="/2025/03/09/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <url>/2025/03/09/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
-    
-    <content type="html"><![CDATA[<pre><code class="hljs">大家好，我是Lucy，有幸经朋友介绍hexo+github搭建博客的玩法，今天算是简单搭建完成，后面继续在本篇文章中补充内容以及在搭建过程中遇到的问题以及解决方法，也请各位网友多多支持！</code></pre><p>参考源：<br>    1.csdn指导文档，<a href="https://blog.csdn.net/yaorongke/article/details/119089190">https://blog.csdn.net/yaorongke/article/details/119089190</a><br>    2.B站指导视频，<a href="https://www.bilibili.com/video/BV1U8411R7cM/?spm_id_from=333.337.search-card.all.click&vd_source=bec47ee1cd3c20935bc0d52fb41cc202">https://www.bilibili.com/video/BV1U8411R7cM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=bec47ee1cd3c20935bc0d52fb41cc202</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>计算机技术</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>hexo</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>测试文章</title>
     <link href="/2025/03/08/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2025/03/08/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
